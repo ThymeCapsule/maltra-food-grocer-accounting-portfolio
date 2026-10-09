@@ -1,0 +1,33 @@
+﻿Month,Entity,Metric,Scenario,Amount,Currency,DataType
+2026-09-30,VIC Manufacturing,Revenue,Actual,2450000,AUD,Illustrative
+2026-09-30,VIC Manufacturing,Revenue,Budget,2380000,AUD,Illustrative
+2026-09-30,VIC Manufacturing,COGS,Actual,1470000,AUD,Illustrative
+2026-09-30,VIC Manufacturing,COGS,Budget,1428000,AUD,Illustrative
+2026-09-30,VIC Manufacturing,Operating Expenses,Actual,510000,AUD,Illustrative
+2026-09-30,VIC Manufacturing,Operating Expenses,Budget,495000,AUD,Illustrative
+2026-09-30,VIC Manufacturing,EBITDA,Actual,470000,AUD,Illustrative
+2026-09-30,VIC Manufacturing,EBITDA,Budget,457000,AUD,Illustrative
+2026-09-30,NSW Distribution,Revenue,Actual,1280000,AUD,Illustrative
+2026-09-30,NSW Distribution,Revenue,Budget,1320000,AUD,Illustrative
+2026-09-30,NSW Distribution,COGS,Actual,806000,AUD,Illustrative
+2026-09-30,NSW Distribution,COGS,Budget,831600,AUD,Illustrative
+2026-09-30,NSW Distribution,Operating Expenses,Actual,284000,AUD,Illustrative
+2026-09-30,NSW Distribution,Operating Expenses,Budget,290000,AUD,Illustrative
+2026-09-30,NSW Distribution,EBITDA,Actual,190000,AUD,Illustrative
+2026-09-30,NSW Distribution,EBITDA,Budget,198400,AUD,Illustrative
+2026-09-30,QLD Sales & Distribution,Revenue,Actual,940000,AUD,Illustrative
+2026-09-30,QLD Sales & Distribution,Revenue,Budget,900000,AUD,Illustrative
+2026-09-30,QLD Sales & Distribution,COGS,Actual,611000,AUD,Illustrative
+2026-09-30,QLD Sales & Distribution,COGS,Budget,585000,AUD,Illustrative
+2026-09-30,QLD Sales & Distribution,Operating Expenses,Actual,205000,AUD,Illustrative
+2026-09-30,QLD Sales & Distribution,Operating Expenses,Budget,198000,AUD,Illustrative
+2026-09-30,QLD Sales & Distribution,EBITDA,Actual,124000,AUD,Illustrative
+2026-09-30,QLD Sales & Distribution,EBITDA,Budget,117000,AUD,Illustrative
+2026-09-30,Group Head Office,Revenue,Actual,120000,AUD,Illustrative
+2026-09-30,Group Head Office,Revenue,Budget,100000,AUD,Illustrative
+2026-09-30,Group Head Office,COGS,Actual,0,AUD,Illustrative
+2026-09-30,Group Head Office,COGS,Budget,0,AUD,Illustrative
+2026-09-30,Group Head Office,Operating Expenses,Actual,365000,AUD,Illustrative
+2026-09-30,Group Head Office,Operating Expenses,Budget,350000,AUD,Illustrative
+2026-09-30,Group Head Office,EBITDA,Actual,-245000,AUD,Illustrative
+2026-09-30,Group Head Office,EBITDA,Budget,-250000,AUD,Illustrative
